@@ -5,8 +5,8 @@ This is a modern, beautiful, and fully featured web application for enterprise-s
 
 ---
 
-<img width="1361" height="794" alt="Screenshot 2026-07-16 214858" src="https://github.com/user-attachments/assets/f4bf59dc-2089-463c-8f7e-f4d6e6957bac" />
-<img width="1271" height="819" alt="Screenshot 2026-07-16 214912" src="https://github.com/user-attachments/assets/5c797b32-e812-462b-a768-483126202e8f" />
+<img width="1361" height="794" alt="Screenshot 2026-07-16 214858" src="assets/1.png" />
+<img width="1271" height="819" alt="Screenshot 2026-07-16 214912" src="assets/2.png" />
 
 
 ---
